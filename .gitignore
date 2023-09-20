@@ -1,0 +1,8 @@
+.DS_Store
+.stack-work/
+advent.cabal
+*~
+.idea
+*.bmp
+*.iml
+*.BAK
